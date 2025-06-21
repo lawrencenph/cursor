@@ -36,7 +36,6 @@ def bubble_sort(arr):
     
     return arr_copy
 
-# pause here    
 
 def bubble_sort_in_place(arr):
     """
